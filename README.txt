@@ -24,6 +24,17 @@ Please upload a ZIP file containing:
 - merges.txt  
 - vocab.json  
 
+CheetChat V1/
+│
+├── app1.py
+├── infer1.py
+├── uploaded_models/
+│
+└── templates/
+    ├── index.html
+    └── chat.html
+
+
 📦 This app runs entirely offline and keeps your data private.
 
 © 2025 CheetChat by Ayush
